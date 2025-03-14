@@ -19,7 +19,7 @@ Esse projeto é um dos desafios da trilha de Python da Rocketseat.
 
 ## 💻 Tecnologias utilizadas
 
- Python.
+  Python 3.11
 
 ## 🛠️ Instalando e Rodando
 
