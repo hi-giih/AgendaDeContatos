@@ -10,7 +10,7 @@ Esse projeto é um dos desafios da trilha de Python da Rocketseat.
 
 ## ☘️ Funcionalidades
  
-- ** Adicionar um novo contato**: Insira um novo contato a lista.
+- **Adicionar um novo contato**: Insira um novo contato a lista.
 - **Ver agenda de contatos**: Ver a agenda completa de contatos.
 - **Editar um contato existente**: Editar as informações de contato como nome, número e email.
 - **Deletar um contato existente**: Remove um contato da lista.
